@@ -1,6 +1,7 @@
 # Application Streamlit pour l'analyse du dataset Iris
 import streamlit as st
 import pandas as pd
+import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 from pandas.plotting import scatter_matrix
